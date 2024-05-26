@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLibrary", "GeometryLibrary.csproj", "{E9822E0D-71E8-4F43-99F5-A5E83D5E846F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9822E0D-71E8-4F43-99F5-A5E83D5E846F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9822E0D-71E8-4F43-99F5-A5E83D5E846F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9822E0D-71E8-4F43-99F5-A5E83D5E846F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9822E0D-71E8-4F43-99F5-A5E83D5E846F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C861513E-E5F7-4856-8109-3AEC1A3BC58C}
+	EndGlobalSection
+EndGlobal
